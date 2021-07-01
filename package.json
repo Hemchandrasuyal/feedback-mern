@@ -1,0 +1,17 @@
+{
+  "name": "neww",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "devStart": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "mongoose": "^5.12.15",
+    "nodemon": "^2.0.8"
+  }
+}
